@@ -1,10 +1,21 @@
-#include<stdio.h>
+#include "main.h"
 /**
-*main- A program that prints putchar 
-*return: 0 (success)
-*/
-int main
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
+
+int main(void)
 {
-prrintf("_putchar\n");
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 return (0);
 }
+

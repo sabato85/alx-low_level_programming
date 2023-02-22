@@ -1,7 +1,13 @@
+0x02. C - Functions, nested loops
+
+
+0-putchar.c
+
 #include "main.h"
 /**
  * main - print _putchar
- * Return: 0 (success)
+ * is written by mbah
+ * Return: 0
  */
 
 int main(void)
@@ -9,12 +15,10 @@ int main(void)
 _putchar('_');
 _putchar('p');
 _putchar('u');
-_putchar('t');
-_putchar('c');
+_putchar('t')utchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
-}
-
+}x
